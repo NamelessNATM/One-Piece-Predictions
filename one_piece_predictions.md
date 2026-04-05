@@ -12,6 +12,7 @@
 - Chapter 4 — Marine Captain "Axe-Hand" Morgan
 - Chapter 5 — The Pirate King and the Great Swordsman
 - Chapter 6 — The First Crew Member
+- Chapter 7 — Friends
 
 ---
 
@@ -27,7 +28,7 @@ Shanks treats the hat with unusual reverence for a piece of clothing — it's th
 
 **3. Luffy's dream involves something beyond being Pirate King**
 Confidence: High
-Luffy states his goal as if "Pirate King" is a step, not the destination — "gather a crew, find the treasure, become King" feels like a child's simplified version of a deeper dream he can't fully articulate yet. The real dream is something he barely understands himself at this age. This chapter reinforces it: Zoro joining is framed as a survival necessity, not an ideological alignment — and yet the two of them together already feel like the nucleus of something larger than either dream stated out loud.
+Luffy states his goal as if "Pirate King" is a step, not the destination — "gather a crew, find the treasure, become King" feels like a child's simplified version of a deeper dream he can't fully articulate yet. The real dream is something he barely understands himself at this age. This chapter reinforces it with a small but telling detail: when Zoro asks what the plan is, Luffy answers simply — Grand Line, One Piece. He does not explain why. The destination matters less than the going. The dream beneath the dream remains unspoken.
 
 **4. The Sea Kings are sentient and cosmically significant**
 Confidence: Medium
@@ -42,16 +43,16 @@ Confidence: High
 Roger's execution is the cold open. He is framed as a man who finished something, not who resolved something. His treasure is still out there. The real spine of the narrative is whatever happened 800 years ago — Roger merely approached it without being able to act on it.
 
 **7. Koby will become a significant Marine and a player in the final war**
-Confidence: High
-Oda introduces Koby as a foil to Luffy: same age, same underdog energy, opposite dream. In Oda's structure, foils don't disappear. Luffy respects Koby's dream without mockery — unusual for Luffy, and signals Oda wants the reader to take it seriously. Koby is quietly determined beneath his cowardice. His arc and Helmeppo's are linked — they'll rise together through whatever the Marines become. This chapter adds a crucial data point: when Helmeppo holds a gun to Koby's head, Luffy abandons an active fight to punch Helmeppo without hesitation. Koby tells Luffy to continue — a moment of genuine selflessness that Luffy overrides by choosing the person over the fight. Oda is registering that Koby is worth protecting in a way that costs something. That weight will scale.
+Confidence: Very High
+This chapter finalizes the structure of Koby's arc. Luffy picks a public fight with him — hurts him, embarrasses him in front of the very institution he wants to join — specifically so Koby can stay. The sacrifice is invisible to everyone except Koby and the reader. The Marine commander understands it immediately: "you have a good friend in Luffy." That line is Oda marking the moment with a pin. Koby joins the Marines not through merit but through Luffy's deliberate self-removal from his life, which is the most Luffy thing possible. The salute at the end — Marines standing in violation of their own code to honor pirates — is the image Oda wants to plant: the best people in the institution and the best people outside it recognize each other. That recognition will be the mechanism of the final war's resolution.
 
 **8. The Marines are a corrupt institution masking itself as justice**
 Confidence: Very High
-Morgan's behavior strips away any remaining ambiguity. He taxes a starving town, orders a lieutenant killed for refusing to murder a child, and builds a monument to himself. The institution's rot isn't incidental to Morgan — it is expressed through him in concentrated form. This chapter completes the picture: when Morgan is losing the fight, he orders his own men to hold guns to their own heads for disobeying. The institution enforces compliance through lethal self-threat. Koby naming his dream as a "just Marine" in this environment is Oda underlining the gap between the institution as it exists and the idea it claims to represent.
+This chapter adds meaningful texture. The rank-and-file Marines hated Morgan and celebrate his defeat — the corruption is not uniform, it is structural and top-down. The enlisted men go a week without food to cover for Luffy and Zoro. That act is quiet mutiny on behalf of pirates, and Oda registers it as heroic. The institution contains people worth saving. The Marines who salute at the end are the same ones who technically should be arresting the pirates who just left. The internal contradiction of the institution — good people operating inside a corrupt structure — is the real subject, not the corruption alone. This will resolve in the endgame through schism, not reform.
 
 **9. Zoro is Luffy's structural equal — the second pillar of the story**
 Confidence: Very High
-This chapter finalizes it. Zoro's entry into the crew is sealed not with enthusiasm but with a negotiated contract: he will follow Luffy, but his own dream takes co-equal priority, and if Luffy's path ever genuinely conflicts with his, the arrangement ends. Oda has never written a second-in-command this way before — with explicit conditions. The joining is framed as a pact between equals, not a follower pledging to a leader. And the chapter closes on Zoro delivering the decisive blow against Morgan, not Luffy — Luffy is the one compromised by his own values (saving Koby), and Zoro covers for that without being asked. Their dynamic is already operational: Luffy leads, gets distracted by people, and Zoro catches the gap. This is the structural spine of the entire story snapping into place.
+The crew dynamic is operational. Zoro asks the practical question — what's the plan — while Luffy answers with destination and nothing else. Zoro accepts this. He is not waiting for a detailed strategy; he is calibrating whether Luffy has a north star. He does. That's enough for Zoro. The cover page is worth noting: Oda in his own note confirms Luffy is trying to paint Zoro's portrait and produces a skull and crossbones instead. Luffy's attempt to capture Zoro produces the symbol of piracy itself. Whether Oda intended this reading or not, it's the correct one.
 
 **10. Kuina's death and her sword will return at the endgame**
 Confidence: Medium-High
@@ -63,15 +64,15 @@ Zoro refuses to join Luffy specifically because becoming a criminal would interf
 
 **12. Helmeppo will break from his father and become something different**
 Confidence: High
-This chapter accelerates the arc significantly. Helmeppo's final act is to hold a gun to a child's head to save himself — and it works, at least tactically; Luffy leaves the fight to stop him. But the cost is total: his father, who he presumably believed would protect him, immediately exploits the opening Luffy created to attack Luffy from behind, with no apparent concern for his son's fate or position. Morgan doesn't use Helmeppo as an asset — he uses the distraction Helmeppo created without acknowledging him. And then Zoro defeats Morgan anyway. Helmeppo has now been fully stripped: his cowardice exposed, his father's indifference confirmed, his scheme turned into the mechanism of his father's final defeat. Characters built this way in Oda crack open. Everything points toward a genuine transformation.
+Morgan is defeated and stripped. Helmeppo's protection is gone. Every support structure he had has collapsed in sequence across this arc. The chapter does not show us where Helmeppo lands — deliberately. Characters built this way in Oda crack open and rebuild into something the early chapters couldn't predict. His trajectory now runs parallel to Koby's: two people associated with institutional rot who will define themselves against it.
 
 **13. Luffy's body being immune to bullets is the first hint of a fruit ability that will be systematically revealed**
 Confidence: High
-The bullet deflection is played for disbelief — every witness, including Zoro, cannot process it. Oda is not hiding that Luffy has a power; he is withholding the explanation deliberately. The reader is being trained to understand that Luffy operates by rules that haven't been disclosed yet. Morgan explicitly names it this chapter — "he must have eaten a Devil Fruit" — which is the first in-world framing of the phenomenon. The institution has a category for this. That categorization will matter: the World Government tracks Devil Fruit users, which means Luffy's existence is already registerable within their system.
+The bullet deflection is played for disbelief — every witness, including Zoro, cannot process it. Oda is not hiding that Luffy has a power; he is withholding the explanation deliberately. The reader is being trained to understand that Luffy operates by rules that haven't been disclosed yet. Morgan explicitly named it — "he must have eaten a Devil Fruit" — which is the first in-world framing of the phenomenon. The institution has a category for this. That categorization will matter: the World Government tracks Devil Fruit users, which means Luffy's existence is already registerable within their system.
 
 **14. Luffy's values are a tactical liability that his crew will perpetually compensate for**
 Confidence: High
-This chapter makes it structural. Luffy abandons an active fight against a powerful enemy — one he may not have been winning cleanly — the moment Koby is threatened. He does not calculate. He does not finish the fight first. He simply stops and punches Helmeppo. This opens him to a near-fatal attack from Morgan, which Zoro covers. The pattern is already complete in chapter 6: Luffy's loyalty to people will repeatedly override tactical sense, and the people around him will have to catch the consequence. This is not a flaw Oda will correct — it is the engine of the crew's necessity. Each crew member exists partly to compensate for the specific gaps Luffy's character creates.
+This chapter adds a new dimension to the pattern. Luffy's distraction of Koby — the deliberate fight — is a sacrifice of social standing, not combat standing. He gives up the appearance of friendship to preserve the reality of it. This is the inverse of the tactical liability established in chapter 6: there, Luffy abandoned a fight to save a person; here, he attacks a person to save their future. Both moves are governed by the same underlying logic — the person in front of him matters more than what the situation demands. Zoro doesn't need to compensate this time. The Marines do it for him. Luffy's values create gaps, and the people who recognize what he actually is keep filling them.
 
 ---
 
@@ -84,8 +85,9 @@ This chapter makes it structural. Luffy abandons an active fight against a power
 - Zoro is fighting the world's greatest swordsman or has already surpassed them. Wado Ichimonji — Kuina's sword — is central to that confrontation.
 - Koby is a named Marine figure on the right side of the war, opposing the corrupt World Government structure. Helmeppo is beside him.
 - Sea Kings have played a meaningful cosmological role in the plot.
-- The rot of the Marines has either caused an internal schism or been exposed at the institutional level.
-- The crew's pattern — Luffy's values creating tactical gaps, crew members covering them — has been the mechanism of multiple decisive victories throughout the story.
+- The rot of the Marines has caused an internal schism, with the good people inside the institution — established from chapter 7 — on the side of the crew.
+- The crew's pattern — Luffy's values creating gaps, crew members covering them — has been the mechanism of multiple decisive victories throughout the story.
+- The final war's resolution involves mutual recognition between the best people inside and outside the institution, mirroring the salute that closes the Romance Dawn arc.
 
 ---
 
@@ -115,9 +117,18 @@ None yet.
 - Zoro defeats Morgan without being asked and without fanfare — he simply closes the gap Luffy's distraction created. This is the first instance of the crew's core operational pattern: Luffy gets compromised by his own values, and Zoro compensates silently.
 - Morgan's endurance is noted explicitly — neither Luffy nor Zoro knocks him cleanly to the ground until the very end. Power scaling this early is unusual; Oda is establishing that rank in the Marines corresponds to genuine combat ability, which means the corruption at the top is backed by force, not just authority.
 - Koby's selflessness under the gun — telling Luffy to continue — is the first time a non-crew character actively tries to subordinate their own survival to Luffy's mission. Luffy refuses the offer. He will always refuse that offer.
+- The rank-and-file Marines celebrate Morgan's defeat and voluntarily go without food to protect Luffy and Zoro. The institutional rot is top-down, not uniform. The people inside the machine are not the machine.
+- Luffy picks a fight with Koby — hurts him publicly, exposes his past — specifically to give him a clean path into the Marines. The cruelty is the gift. Oda will use this structure again: Luffy doing something that looks like abandonment or harm that is actually the deepest form of care.
+- The Marine commander's line — "you have a good friend in Luffy" — is Oda marking the moment. A Marine recognizing a pirate's loyalty as friendship is a small version of the final war's ideological resolution.
+- The closing salute. Marines violating their own code of conduct to honor two pirates sailing away. The image is the thesis of the entire story in miniature: the best people on both sides recognize each other, and the institution's rules are the last thing that matters.
+- Oda's cover page note: Luffy's attempt to paint Zoro's portrait produces the Jolly Roger. Luffy tries to capture his first mate and produces the symbol of everything they're becoming. The crew's identity is Zoro's face, reinterpreted through Luffy's incapacity for precision.
 
 ---
 
-Paste this into the knowledge base to replace the current version.
+*Paste this into the knowledge base to replace the current version.*
 
 ---
+
+---
+
+The one prediction that moved the most is Koby's. It was already High; it's now Very High. The structure of his separation from Luffy is too deliberate, too emotionally precise to be a minor arc beat. Oda has invested everything in this goodbye. Koby will matter at the scale the goodbye implies.
