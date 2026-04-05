@@ -1,4 +1,4 @@
-Here is the updated file:
+The file provided in the knowledge base is current through chapter 8. This chapter summary is chapter 9. Updating now.Here is the updated file:
 
 ---
 
@@ -18,6 +18,7 @@ Here is the updated file:
 - Chapter 6 — The First Crew Member
 - Chapter 7 — Friends
 - Chapter 8 — Nami
+- Chapter 9 — The Treasure
 
 ---
 
@@ -29,7 +30,7 @@ The entire story opens with Shanks — not Luffy, not Roger. He is the emotional
 
 **2. The Straw Hat is a relic from the Void Century / connected to Joyboy**
 Confidence: Medium-High
-Shanks treats the hat with unusual reverence for a piece of clothing — it's the thing he chooses to leave behind, the thing Luffy carries for the entire story. Oda is too deliberate for this to be purely sentimental. The hat is a symbol of something older than Shanks, passed down through Roger to Shanks and now to Luffy. Its true origin will be revealed late in the story and will recontextualize everything.
+Shanks treats the hat with unusual reverence for a piece of clothing — it's the thing he chooses to leave behind, the thing Luffy carries for the entire story. Oda is too deliberate for this to be purely sentimental. The hat is a symbol of something older than Shanks, passed down through Roger to Shanks and now to Luffy. Its true origin will be revealed late in the story and will recontextualize everything. Chapter 9 adds a layer: when asked what makes it worth caring about, Luffy cannot explain the hat's value except through the relationship attached to it. The hat is irreducible to utility or treasure — it is a promise object. Oda is establishing the hat's logic early so that its deeper significance lands harder later.
 
 **3. Luffy's dream involves something beyond being Pirate King**
 Confidence: High
@@ -77,7 +78,7 @@ The bullet deflection is played for disbelief — every witness, including Zoro,
 
 **14. Luffy's values are a tactical liability that his crew will perpetually compensate for**
 Confidence: High
-Luffy's distraction of Koby — the deliberate fight — is a sacrifice of social standing, not combat standing. He gives up the appearance of friendship to preserve the reality of it. Both moves are governed by the same underlying logic — the person in front of him matters more than what the situation demands. Luffy's values create gaps, and the people who recognize what he actually is keep filling them.
+Luffy's distraction of Koby — the deliberate fight — is a sacrifice of social standing, not combat standing. He gives up the appearance of friendship to preserve the reality of it. Both moves are governed by the same underlying logic — the person in front of him matters more than what the situation demands. Chapter 9 demonstrates this again in the starkest possible terms: Nami ties up and hands over Luffy to the enemy, and Luffy accepts his imprisonment without apparent strategy. The pattern is established. Luffy's openness to people is not naivety — it is structural exposure. He will keep getting captured, betrayed, and boxed in, and his crew will keep extracting him. This will be the mechanism of major reversals throughout the story.
 
 **15. The navigator role is a structural necessity that will define the next crew member**
 Confidence: High
@@ -85,11 +86,11 @@ Chapter 8 makes the crew's navigational gap explicit and immediate — they are 
 
 **16. Nami's relationship with pirates is adversarial for reasons the story has not yet revealed**
 Confidence: High
-Nami introduces herself as a thief who steals specifically from pirates. This is a precise moral position, not a random criminal vocation — she targets one category of person deliberately. Oda establishes specificity of hatred this early only when there is a backstory with weight behind it. Something happened involving pirates. That backstory will reframe her joining Luffy as a significant threshold — not convenience, but a choice made against her own established enmity. The more precise her hatred, the more meaningful her eventual allegiance. Whatever that story is, it involves loss, and it will arrive at a moment designed for maximum emotional impact.
+Nami introduces herself as a thief who steals specifically from pirates. This is a precise moral position, not a random criminal vocation — she targets one category of person deliberately. Chapter 9 deepens this significantly: when Luffy tells her he's a pirate, she withdraws immediately — the word itself is a switch. Her stated goal of gathering 100,000,000 Beli to buy a village is specific enough to be a plot point, not just backstory flavor. She is not saving for herself. She is saving for someone or something that matters more than she does. Whatever happened to that village, and whatever arrangement she is under to reclaim it, involves pirates — and the number is too precise to be casual. That backstory will reframe her joining Luffy as a significant threshold — not convenience, but a choice made against her own established enmity.
 
 **17. Buggy the Clown will be a recurring figure of comic importance that conceals genuine narrative weight**
-Confidence: Medium-High
-Buggy is introduced in chapter 8 before appearing directly — his crew is already in the story, he has a named Devil Fruit power, and he is connected to the Grand Line map that Nami stole. This level of pre-introduction setup is not Oda's pattern for throwaway antagonists. The fact that his crew mentions his Devil Fruit ability specifically, and that his first on-page act is shooting down a giant bird (inadvertently landing Luffy in front of Nami), makes him a catalyst figure. Buggy's relationship to the broader world — particularly any connection to Roger's era — is worth tracking. Characters who arrive this early with this much architecture around them do not disappear.
+Confidence: High
+Chapter 9 confirms Buggy is a genuine threat operating at a level the early arc takes seriously — he shoots one of his own crewmates dead by cannon for failing to retrieve Nami's stolen map, without warning or ceremony. This is not slapstick. Buggy has the casual lethality of someone who has commanded real power for a long time. The nose sensitivity is comic, but the cannon is not. His connection to the Grand Line map and his evident history in the world mark him as a figure with genuine weight beneath the clown register. Characters introduced this early with this much architecture — a named Devil Fruit, a prior world presence, a specific obsession — do not stay local antagonists. Buggy's relationship to the Roger era is worth tracking.
 
 ---
 
@@ -101,7 +102,7 @@ Buggy is introduced in chapter 8 before appearing directly — his crew is alrea
 - "Pirate King" has been reframed — it means something beyond what Roger achieved, closer to Luffy's real dream.
 - Zoro is fighting the world's greatest swordsman or has already surpassed them. Wado Ichimonji — Kuina's sword — is central to that confrontation.
 - Koby is a named Marine figure on the right side of the war, opposing the corrupt World Government structure. Helmeppo is beside him.
-- Nami's backstory involving pirates has been fully revealed and is part of the story's emotional architecture.
+- Nami's backstory — the village, the 100,000,000 Beli, the pirates responsible — has been fully revealed and is part of the story's emotional architecture.
 - Sea Kings have played a meaningful cosmological role in the plot.
 - The rot of the Marines has caused an internal schism, with the good people inside the institution on the side of the crew.
 - The crew's pattern — Luffy's values creating gaps, crew members covering them — has been the mechanism of multiple decisive victories throughout the story.
@@ -143,7 +144,9 @@ None yet.
 - Nami steals the Grand Line map from Buggy specifically. The Grand Line is the destination. She is in possession of the road before she meets the people who need it most. Oda is engineering the inevitability of the alliance.
 - The cover page: Luffy and Zoro on a ship crewed by panda-birds imitating Luffy. Already the crew's composition is being previewed in miniature — others following Luffy, taking on his shape. This will be the pattern of the whole story: people becoming more themselves by orienting toward Luffy.
 - Buggy shoots down the giant bird carrying Luffy as an incidental act — his first narrative function is to land Luffy exactly where he needs to be. Antagonists in One Piece frequently serve as instruments of plot inevitability before becoming threats. Buggy's first act in the story is accidentally useful to the protagonist.
+- Nami's 100,000,000 Beli target is specific enough to be a plot device. You don't name an exact number at this stage unless it resolves at a specific moment later. The village she is buying is named by circumstance — someone powerful holds it.
+- Buggy kills one of his own men by cannon without warning in chapter 9, in a scene played for shock rather than comedy. His lethal capacity is now on the page. The nose sensitivity is a quirk; the cannon is character.
+- Nami engineering Luffy's capture is her first independent action in the story — she has agency and her own agenda that runs against Luffy's. She is not simply a helper. Whatever arrangement or obligation drives her 100,000,000 Beli goal is powerful enough that she will betray someone she seems to like. Her arc is about what she is trying to free herself from, not just what she is trying to join.
+- The cover page: Zoro cleans his katana using a cow's horns and nose-ring as a stand while Luffy swings from a tree behind him. Zoro doing serious maintenance on his tools while Luffy goofs around in the same frame — this is the texture of the whole partnership distilled. Zoro prepares; Luffy plays. Together they function.
 
 ---
-
-**Buggy as structural catalyst.** His crew names his Devil Fruit ability before he appears. He shoots down the bird that delivers Luffy to Nami. He's the reason Nami has the Grand Line map. He has presence before presence — Oda is building him as a figure with genuine history in this world, not a two-arc villain. The comic register he occupies is almost certainly concealing something. Characters introduced this way — with architecture, with backstory, with connections to things that matter — don't stay jokes.
