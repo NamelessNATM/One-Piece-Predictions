@@ -49,39 +49,6 @@
 
 ---
 
-## Observations Log
-
-| Ch. | Observation |
-|-----|-------------|
-| 1 | Shanks repels Sea King with stare alone — pre-framework, no technique named |
-| 1 | Gomu Gomu no Mi taken from enemy ship — origin specified, no plot reason given |
-| 1 | Beckman: "He'll become big" — unprompted certainty, not hope |
-| 1 | Straw hat given as contract: return it when you're great, not a gift |
-| 1 | Roger's last word: "everything" — left there, location unspecified |
-| 1 | Luffy plans crew of ~10 before meeting anyone |
-| 2 | Koby introduced with full backstory, named dream, named bullies — Oda investing heavily in a character who could have been anonymous |
-| 2 | Koby's value to Alvida is explicitly navigational knowledge — navigation flagged as scarce and powerful before a navigator joins the crew |
-| 2 | Marines introduced through Koby's idealism, not through institutional authority — first framing of the institution is aspirational, not threatening |
-| 2 | Zoro named before appearing — introduced as a bounty hunter feared even by pirates, currently imprisoned |
-| 2 | Luffy's "Gomu Gomu no Pistol" — first named technique; rubber powers treated as genuinely strange by witnesses |
-| 2 | Cover page: Luffy's flag towers over animals he's simply standing among — visual language of effortless dominance, not conquest |
-| 3 | Koby names the navigator gap unprompted and immediately — "find a navigator soon" is the first practical crew need stated in-story |
-| 3 | Both Zoro and Captain Morgan produce identical fear responses in villagers — Oda pairs them structurally before either has appeared on panel together |
-| 3 | Zoro's dream withheld at the moment it becomes plot-relevant — he refuses to join specifically because of it, but Oda declines to name it |
-| 3 | Zoro's consideration for Rika (eating the ruined rice balls, asking Luffy to lie about it) is the actual trigger for Luffy's decision — capability never evaluated |
-| 3 | Helmeppo invokes his father's name to compel Marine obedience — rank as personal leverage established before Morgan appears |
-| 3 | Zoro was imprisoned for killing a wolf that was "terrorizing the town" — his crime was defending civilians; framed as monstrous by reputation, mundane by fact |
-| 3 | Cover page: Luffy riding a polka-dotted shark — domesticated danger, effortless rapport with the threatening |
-| 4 | Rokkaku refuses Morgan's order to kill Rika — third consecutive rank-and-file Marine shown as decent; struck down for basic conscience |
-| 4 | Morgan frames the decreasing tribute as personal disrespect — paranoia presented as governing logic, not exception |
-| 4 | Luffy engineers a debt-obligation to secure Zoro's commitment rather than persuading him — coercion in service of certainty |
-| 4 | Koby states his dream to Zoro aloud — justice framed as institutional ideal — and is immediately shot for acting on it |
-| 4 | Zoro visibly surprised by Luffy's Pirate King ambition — reaction registers the claim as external and serious, not merely competitive |
-| 4 | Rika defended by her mother Ririka — named civilian anchor; emotional continuity through named characters again |
-| 4 | Morgan's statue introduced as an object of forced labor and then immediately destroyed by Luffy — compressed arc of tyrannical authority |
-
----
-
 ## Retired Hypotheses
 
 *None yet.*
