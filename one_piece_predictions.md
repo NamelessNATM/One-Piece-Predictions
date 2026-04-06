@@ -58,5 +58,3 @@
 *None yet.*
 
 ---
-
-Nothing in Chapter 2 falsifies any existing hypothesis. H-003 gets mild ambient support from the cover page visual: Luffy standing casually among animals beneath a towering flag is a compositional statement about his relationship to the world — things organize around him without struggle. That's consistent with the succession-chain reading of Ch.1, though too indirect to register as confirming evidence.
