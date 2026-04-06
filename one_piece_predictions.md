@@ -1,7 +1,3 @@
-The file provided in the knowledge base is current through chapter 8. This chapter summary is chapter 9. Updating now.Here is the updated file:
-
----
-
 # One Piece Predictions — Tracking Toward Chapter 1180
 
 **Method:** Pure foreshadowing analysis. Predictions are updated chapter by chapter as new information arrives. Confidence levels reflect certainty at the current point in the read.
@@ -19,6 +15,7 @@ The file provided in the knowledge base is current through chapter 8. This chapt
 - Chapter 7 — Friends
 - Chapter 8 — Nami
 - Chapter 9 — The Treasure
+- Chapter 10 — The Oath
 
 ---
 
@@ -58,7 +55,7 @@ The rank-and-file Marines hated Morgan and celebrate his defeat — the corrupti
 
 **9. Zoro is Luffy's structural equal — the second pillar of the story**
 Confidence: Very High
-The crew dynamic is operational. Zoro asks the practical question — what's the plan — while Luffy answers with destination and nothing else. Zoro accepts this. He is not waiting for a detailed strategy; he is calibrating whether Luffy has a north star. He does. That's enough for Zoro.
+The crew dynamic is operational. Zoro asks the practical question — what's the plan — while Luffy answers with destination and nothing else. Zoro accepts this. He is not waiting for a detailed strategy; he is calibrating whether Luffy has a north star. He does. That's enough for Zoro. Chapter 10 confirms the other half of this dynamic: Zoro finds Luffy without being asked to, cuts through the primary antagonist without ceremony, and moves on. He is not performing loyalty. He is exercising it.
 
 **10. Kuina's death and her sword will return at the endgame**
 Confidence: Medium-High
@@ -78,19 +75,23 @@ The bullet deflection is played for disbelief — every witness, including Zoro,
 
 **14. Luffy's values are a tactical liability that his crew will perpetually compensate for**
 Confidence: High
-Luffy's distraction of Koby — the deliberate fight — is a sacrifice of social standing, not combat standing. He gives up the appearance of friendship to preserve the reality of it. Both moves are governed by the same underlying logic — the person in front of him matters more than what the situation demands. Chapter 9 demonstrates this again in the starkest possible terms: Nami ties up and hands over Luffy to the enemy, and Luffy accepts his imprisonment without apparent strategy. The pattern is established. Luffy's openness to people is not naivety — it is structural exposure. He will keep getting captured, betrayed, and boxed in, and his crew will keep extracting him. This will be the mechanism of major reversals throughout the story.
+Luffy's distraction of Koby — the deliberate fight — is a sacrifice of social standing, not combat standing. He gives up the appearance of friendship to preserve the reality of it. Both moves are governed by the same underlying logic — the person in front of him matters more than what the situation demands. Chapters 9 and 10 crystallize this pattern into its purest form yet: Luffy is caged, cannot free himself, eats the cage in a doomed attempt to escape, and is ultimately saved by Zoro arriving. More strikingly, Luffy's response to Nami's hesitation to kill him is not fear but observation — he notices she's trembling, reads her correctly, and says nothing useful. He cannot extract himself from the situation because his read of people, however accurate, generates no tactical output. Zoro generates the output. The division of labor is now visible in miniature.
 
 **15. The navigator role is a structural necessity that will define the next crew member**
 Confidence: High
-Chapter 8 makes the crew's navigational gap explicit and immediate — they are lost at sea before the story has properly started, and the person who solves that gap is already introduced. Nami is not an incidental encounter; her ability to predict weather and steal from pirates positions her as someone whose skills the crew cannot function without. Oda does not introduce characters this precisely without locking them into the core structure. The navigator gap named in chapter 7 by Koby is filled here, in the next chapter, by someone who is already operating at the level the crew needs. That speed of setup suggests Oda considers the navigator role load-bearing — not just logistically but thematically.
+Chapter 8 makes the crew's navigational gap explicit and immediate — they are lost at sea before the story has properly started, and the person who solves that gap is already introduced. Nami is not an incidental encounter; her ability to predict weather and steal from pirates positions her as someone whose skills the crew cannot function without. Oda does not introduce characters this precisely without locking them into the core structure. The navigator gap named in chapter 7 by Koby is filled here, in the next chapter, by someone who is already operating at the level the crew needs.
 
 **16. Nami's relationship with pirates is adversarial for reasons the story has not yet revealed**
-Confidence: High
-Nami introduces herself as a thief who steals specifically from pirates. This is a precise moral position, not a random criminal vocation — she targets one category of person deliberately. Chapter 9 deepens this significantly: when Luffy tells her he's a pirate, she withdraws immediately — the word itself is a switch. Her stated goal of gathering 100,000,000 Beli to buy a village is specific enough to be a plot point, not just backstory flavor. She is not saving for herself. She is saving for someone or something that matters more than she does. Whatever happened to that village, and whatever arrangement she is under to reclaim it, involves pirates — and the number is too precise to be casual. That backstory will reframe her joining Luffy as a significant threshold — not convenience, but a choice made against her own established enmity.
+Confidence: Very High
+Chapter 10 delivers the clearest statement yet: pirates killed the most important person in Nami's life. Oda gave her the line at a moment of maximum stakes — she is refusing to kill Luffy, burns her own hand to stop the cannon, and explains herself by invoking this person. This is not backstory flavor. It is the emotional core of her character delivered at the earliest possible moment it could land. The precise phrasing — "the most important person in my life" — signals a figure who will be named and whose death will be shown. The 100,000,000 Beli target is attached to this same wound. When the backstory arrives it will reframe everything she has done in the Orange Town arc: her thieving, her arrangement, her hesitation, her hand in the fire.
 
 **17. Buggy the Clown will be a recurring figure of comic importance that conceals genuine narrative weight**
 Confidence: High
-Chapter 9 confirms Buggy is a genuine threat operating at a level the early arc takes seriously — he shoots one of his own crewmates dead by cannon for failing to retrieve Nami's stolen map, without warning or ceremony. This is not slapstick. Buggy has the casual lethality of someone who has commanded real power for a long time. The nose sensitivity is comic, but the cannon is not. His connection to the Grand Line map and his evident history in the world mark him as a figure with genuine weight beneath the clown register. Characters introduced this early with this much architecture — a named Devil Fruit, a prior world presence, a specific obsession — do not stay local antagonists. Buggy's relationship to the Roger era is worth tracking.
+Chapter 10 adds a structural observation: Buggy is cut into pieces by Zoro, and his crew simply laughs. They are not shocked. They are not alarmed. They have seen this before. Buggy's Devil Fruit dismemberment is not a defeat, it is a transformation — his crew's laughter tells us that Buggy in pieces is still Buggy in control. Whatever his fruit allows him to do, it is not what it looks like. Buggy is not done. His connection to the Grand Line map, his evident history, and the fact that his subordinates are completely untroubled by his apparent destruction all suggest that the Orange Town arc is not resolving Buggy, it is introducing him.
+
+**18. The defining oath of a pirate — risking one's own life — is the story's moral spine**
+Confidence: High
+Chapter 10 produces the single most significant thematic exchange so far: Nami asks whether a pirate's oath means killing people like insects, and Luffy answers that it means risking your own life. This is the chapter's title, its thesis, and Oda's declaration of what One Piece is actually about. The contrast being drawn is not between pirates and Marines, or freedom and law — it is between those who impose cost on others and those who absorb cost themselves. Luffy's definition of the pirate oath is self-sacrificial. Nami's unnamed person died at the hands of people who imposed cost on others. The moral distinction the story is building — between what Luffy is and what the pirate world generally is — is now explicit in the dialogue. Every future arc villain who kills casually, every crew member who joins after surviving something terrible, will be measured against this axis.
 
 ---
 
@@ -102,12 +103,13 @@ Chapter 9 confirms Buggy is a genuine threat operating at a level the early arc 
 - "Pirate King" has been reframed — it means something beyond what Roger achieved, closer to Luffy's real dream.
 - Zoro is fighting the world's greatest swordsman or has already surpassed them. Wado Ichimonji — Kuina's sword — is central to that confrontation.
 - Koby is a named Marine figure on the right side of the war, opposing the corrupt World Government structure. Helmeppo is beside him.
-- Nami's backstory — the village, the 100,000,000 Beli, the pirates responsible — has been fully revealed and is part of the story's emotional architecture.
+- Nami's backstory — the village, the 100,000,000 Beli, the unnamed most important person — has been fully revealed and is part of the story's emotional architecture.
 - Sea Kings have played a meaningful cosmological role in the plot.
 - The rot of the Marines has caused an internal schism, with the good people inside the institution on the side of the crew.
 - The crew's pattern — Luffy's values creating gaps, crew members covering them — has been the mechanism of multiple decisive victories throughout the story.
 - The final war's resolution involves mutual recognition between the best people inside and outside the institution, mirroring the salute that closes the Romance Dawn arc.
 - Buggy has proven more significant than his comic introduction suggested — likely connected to Roger's era and present in the endgame.
+- The pirate oath Luffy defines in chapter 10 — risking your own life rather than imposing cost on others — is the thematic test every major character will be measured against at the story's climax.
 
 ---
 
@@ -148,5 +150,9 @@ None yet.
 - Buggy kills one of his own men by cannon without warning in chapter 9, in a scene played for shock rather than comedy. His lethal capacity is now on the page. The nose sensitivity is a quirk; the cannon is character.
 - Nami engineering Luffy's capture is her first independent action in the story — she has agency and her own agenda that runs against Luffy's. She is not simply a helper. Whatever arrangement or obligation drives her 100,000,000 Beli goal is powerful enough that she will betray someone she seems to like. Her arc is about what she is trying to free herself from, not just what she is trying to join.
 - The cover page: Zoro cleans his katana using a cow's horns and nose-ring as a stand while Luffy swings from a tree behind him. Zoro doing serious maintenance on his tools while Luffy goofs around in the same frame — this is the texture of the whole partnership distilled. Zoro prepares; Luffy plays. Together they function.
+- Nami's cover page for chapter 10: she marches with a burglar-masked pig carrying her loot and a crossed-out Jolly Roger as her personal flag. The flag is the tell. She is not anti-pirate because she is moral in the abstract — she is anti-pirate personally, specifically, biographically. The crossed-out Jolly Roger is her emblem before she has a reason to change it. When that flag changes, her arc has resolved.
+- Buggy's crew laughs when he is cut to pieces. This is the single most important detail in chapter 10 outside Nami's confession. The crew has seen this before and is untroubled. Buggy dismembered is not Buggy defeated. Watch for how Oda uses this when Buggy needs to be dangerous again.
+- Nami burns her own hand to stop the cannon fuse. She is not passive and she is not cold. She has a limit, and that limit is located exactly at the person Buggy wants her to kill. Whatever the pirates who mattered to her did, they did not break her capacity for this kind of self-cost. That is significant.
+- Luffy's definition of the pirate oath — "risking your own life" — is delivered not as a speech but as a casual clarification. He is not performing. He genuinely does not understand why Nami's version of the oath (killing others) would count. The gap between his understanding of what a pirate is and what the world understands it to be is the engine of every arc.
 
 ---
